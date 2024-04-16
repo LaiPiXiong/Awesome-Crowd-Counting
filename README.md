@@ -105,7 +105,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 </details>
 ### 2022
-- <a name=""></a> Attention-Guided Collaborative Counting (**TIP2022**)
+- <a name=""></a> Attention-Guided Collaborative Counting (**TIP2022**)[[paper]([https://arxiv.org/abs/2012.04529](https://ieeexplore.ieee.org/document/9906560))]
 - <a name=""></a> Localization in Crowds with Loosen-structured Pair-of-points Loss (**ICVRV2022**)
 
 ### 2021
