@@ -424,6 +424,9 @@ The section is being continually updated. Note that some values have superscript
 | 2020--ECCV | [AMSNet](#AMSNet)                            | 56.7 | 93.4   | -  | -  | -  | -             |
 | 2020--CVPR | [ADSCNet](#ADSCNet)                          | 55.4 | 97.7   | -  | -  | -  | -           |
 | 2021--AAAI |**[SASNet](#SASNet)**                         | **53.59** | 88.38 | -  | -  | -  | -       |
+| 2022--TIP |**[AGCCM](#AGCCM)**                            | **52.75** | 85.5 | -  | -  | -  | -       |
+| 2022--ICVRV |**[LSPL](#LSPL)**                            | **50.41** | 81.9 | -  | -  | -  | -       |
+
 
 
 
@@ -475,6 +478,9 @@ The section is being continually updated. Note that some values have superscript
 | 2020--CVPR | [ADSCNet](#ADSCNet)                           | 6.4   | 11.3 |
 | 2020--ICPR | **[M-SFANet+M-SegNet](#M-SFANet)**            | **6.32** | 10.06 |
 | 2021--AAAI | **[SASNet](#SASNet)**                         | 6.35  | **9.9** |
+| 2021--AAAI | **[AGCCM](#AGCCM)**                           | 5.98  | **9.72** |
+| 2021--AAAI | **[LSPL](#LSPL)**                             | 5.96  | **9.78** |
+
 
 ### UCF-QNRF
 
