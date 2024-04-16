@@ -104,6 +104,9 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Structured Inhomogeneous Density Map Learning for Crowd Counting [[paper](https://arxiv.org/pdf/1801.06642.pdf)]
 
 </details>
+### 2022
+- <a name=""></a> Attention-Guided Collaborative Counting (**TIP2022**)
+- <a name=""></a> Localization in Crowds with Loosen-structured Pair-of-points Loss (**ICVRV2022**)
 
 ### 2021
 - <a name=""></a> A Generalized Loss Function for Crowd Counting and Localization (**CVPR2021**)
